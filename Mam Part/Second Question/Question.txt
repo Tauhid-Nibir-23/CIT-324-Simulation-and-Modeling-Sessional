@@ -1,0 +1,10 @@
+Question 2: A customer Arrives at a service counter at random intervals. Generate inter-arrival time using an exponential distribution and service time using a uniform distribution:
+               
+	Mean inter-Arrival time = 5 minutes
+	Service time = Uniformly distributed between 2 and 8 minutes
+You should:
+1.	Generate 1000 inter-arrival time
+2.	Generate 1000 service time
+3.	Plot both histogram
+4.	Calculate the sample mean and standard deviation for both
+5.	Compare the sample statistics with theoretical value

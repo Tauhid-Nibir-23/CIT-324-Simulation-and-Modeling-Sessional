@@ -1,0 +1,5 @@
+Question 1: Generate 100 random number between 0 and 1. 
+1. Calculate their mean, minimum and standard deviation.
+2. If we generate 100 random number again, will the mean be exactly the same?
+3. What happens if we use the same random seed?
+4. What happens if we generate 10000 instead of 100 numbers?
