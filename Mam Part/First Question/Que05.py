@@ -3,7 +3,7 @@ import random
 
 numbers = []
 
-for i in range(10000):git
+for i in range(10000):
     num = random.uniform(0, 1)
     numbers.append(num)
 
